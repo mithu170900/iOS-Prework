@@ -31,15 +31,13 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/6e9CzDEUYm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
 Can't show the launch screen unless re-launching the app. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Minh Bui]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
